@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Ayuba Olanrewaju. I'm a web developer. Welcome to my github page! <br>
 
  
-🌱 *Currently Learning*: React and Vue <br>
+🌱 *Currently Learning*: Machine learning<br>
 🤔 *Looking for help*: I'm looking for help with trying to find web developer job in this current job climate.<br>
 💬 Ask me about: creating a sites for you, or assistance with an application you are working on. <br>
 
